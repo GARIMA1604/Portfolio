@@ -112,7 +112,7 @@ nav ul li a.active {
 .hero {
   height: 100vh; /* Full height of the viewport */
   width: 100%; /* Full width of the viewport */
-  background: url('C:\Users\91705\Downloads\My-Portfolio\my-portfolio\src\components\image (4).png') no-repeat center center; /* Set your image path */
+  background: url('./components/image (4).png') no-repeat center center; /* Set your image path */
   background-size: cover; /* Ensures the image covers the entire screen */
   display: flex;
   justify-content: center;
